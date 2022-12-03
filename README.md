@@ -5,7 +5,6 @@
 [![Releases with Pre-Releases](https://img.shields.io/github/v/release/Blockyheadman/ClikcerVR?include_prereleases&label=pre-release)](https://github.com/Blockyheadman/ClikcerVR/releases)
 
 [![Total Downloads](https://img.shields.io/github/downloads/Blockyheadman/ClikcerVR/total?label=total%20downloads)](https://github.com/Blockyheadman/ClikcerVR/releases)
-<!-- [![Clikcer on Quest 1/2/Pro](https://img.shields.io/badge/Get-On%20Oculus%20Store-blue)](https://www.oculus.com/experiences/quest/5507840142677277/) -->
 
 ## The Code.org game now makes its way onto VR! Enjoy a laid-back clicking experience to become the richest Clikcer you know.
 * Achievements
