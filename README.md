@@ -16,7 +16,7 @@
 ## Supported Platforms:
 * Meta Quest 1/2/Pro
 
-## How to install on Meta Quest 1/2/Pro <sup>[2](https://github.com/Blockyheadman/Clikcer/wiki/How-to-install-on..#notes)</sup>
+## How to install on Meta Quest 1/2/Pro
 **Because there will (possibly) be multiple ways for the game to be released in the future, there will more than likely be multiple ways on installing the game. As of right now, there won't be so there is only one way of installing it.**
 
 1. Download the ClikcerVR apk
