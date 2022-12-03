@@ -41,6 +41,9 @@
 6. Now you're ready to start using commands. Test to see if adb works by typing `adb help` and it should show a bunch of commands and if it does, you're ready to start installation.
 7. Run the command `adb devices` if your headset is plugged in and it should return with at least one device. If it doesn't, you might need to accept a popup asking for debugging in the headset.
 8. Now if you can confirm that adb is seeing your headset, you can now run `adb install ClikcerVR.apk`. if you put it in a folder, you'd have something like this `adb install apps/ClikcerVR.apk` 
+9. Go into your headset and select the dropdown menu on your apps menu.
+10. Select `Unknown Sources`
+11. Find Clikcer VR and play.
 
 **(NOTE) This release method may change in the future as I have different release days for the different versions of the game**
 
