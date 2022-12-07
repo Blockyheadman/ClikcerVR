@@ -7,9 +7,9 @@ currently being supported with security updates.
 
 | OS | Supported |
 | ---------- | ------------------ |
-| Linux/X11  | :white_check_mark: |
-| macOS      | :white_check_mark: |
-| Windows    | :white_check_mark: |
+| Linux/X11  | :x:                |
+| macOS      | :x:                |
+| Windows    | :x:                |
 | Android/VR | :white_check_mark: |
 
 ## Reporting a Vulnerability
