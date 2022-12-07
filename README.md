@@ -13,6 +13,7 @@
 * and a whole lot of clicking
 
 ## Supported Platforms:
+* Windows, Linux/X11, macOS, Android [Check out Clikcer Instead](https://github.com/Blockyheadman/Clikcer)
 * Meta Quest 1/2/Pro
 
 ## How to install on Meta Quest 1/2/Pro
