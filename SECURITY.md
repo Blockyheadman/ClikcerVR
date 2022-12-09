@@ -16,5 +16,5 @@ currently being supported with security updates.
 
 1. Create a new bug report in the issues tab
 2. Add the labels `help-wanted` & `security`
-3. Fill ou the details
+3. Fill out the details
 4. Send it in and I'll respond to it whenever possible.
