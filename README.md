@@ -49,7 +49,7 @@
 **(NOTE) This release method may change in the future as I have different release days for the different versions of the game**
 
 ## Changes to the license are coming.
-*It will become a [GNU v3](https://choosealicense.com/licenses/gpl-3.0/) license soon. Stay tuned.*
+*It will become a [GPL v3](https://choosealicense.com/licenses/gpl-3.0/) license soon. Stay tuned for the repo update.*
 
 This project and all its assets are owned and copyrighted by me. You may not reproduce, distribute, or create derivative works of this project.
 
