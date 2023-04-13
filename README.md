@@ -4,6 +4,8 @@
 
 ![ClikcerVR Icon](resources/icons/AndroidIcon.png)
 
+[![Clikcer on Quest 1/2/Pro](https://img.shields.io/badge/Wishlist-On%20Oculus%20Store-blue)](https://www.oculus.com/experiences/quest/5507840142677277/)
+
 [![Releases](https://img.shields.io/github/v/release/Blockyheadman/ClikcerVR)](https://github.com/Blockyheadman/ClikcerVR/releases)
 [![Releases with Pre-Releases](https://img.shields.io/github/v/release/Blockyheadman/ClikcerVR?include_prereleases&label=pre-release)](https://github.com/Blockyheadman/ClikcerVR/releases)
 
@@ -22,8 +24,9 @@
 ## How to install on Meta Quest 1/2/Pro
 **Because there will (possibly) be multiple ways for the game to be released in the future, there will more than likely be multiple ways on installing the game. As of right now, there won't be so there is only one way of installing it.**
 
-1. Download the ClikcerVR apk
-2. Use one of the methods below for installing it to the headset
+1. Download from the Oculus Store (Once released)
+2. Download the ClikcerVR apk
+3. Use one of the methods below for installing it to the headset
 
 ### (Recomended) SideQuest
 1. Turn on [Developer mode](https://developer.oculus.com/documentation/native/android/mobile-device-setup/) on your headset if you haven't already. Follow all the steps.
