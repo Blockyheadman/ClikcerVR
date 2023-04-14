@@ -4,7 +4,7 @@
 
 ![ClikcerVR Icon](resources/icons/AndroidIcon.png)
 
-[![Clikcer on Quest 1/2/Pro](https://img.shields.io/badge/Wishlist-On%20Oculus%20Store-blue)](https://www.oculus.com/experiences/quest/5507840142677277/)
+[![Clikcer on Quest 1/2/Pro](https://img.shields.io/badge/wishlist-on%20oculus%20store-blue)](https://www.oculus.com/experiences/quest/5507840142677277/)
 
 [![Releases](https://img.shields.io/github/v/release/Blockyheadman/ClikcerVR)](https://github.com/Blockyheadman/ClikcerVR/releases)
 [![Releases with Pre-Releases](https://img.shields.io/github/v/release/Blockyheadman/ClikcerVR?include_prereleases&label=pre-release)](https://github.com/Blockyheadman/ClikcerVR/releases)
