@@ -1,6 +1,8 @@
 # Clikcer VR
 ### A VR port of Clikcer
-**This project uses Godot 3.5.1. If you want to mess with the source, you need to install Godot [here](https://godotengine.org/download). (No need to get the Mono version)**
+**This project uses Godot 4.3.1. If you want to mess with the source, you need to install Godot [here](https://godotengine.org/download). (No need to get the Mono version)**
+
+## Do Note: Soon, the only way to download ClikcerVR will be only on App Lab.
 
 ![ClikcerVR Icon](resources/icons/AndroidIcon.png)
 
